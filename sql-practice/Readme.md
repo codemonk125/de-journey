@@ -1,0 +1,1 @@
+# dumping sql practice here 
