@@ -1,6 +1,6 @@
 -- DataLemur SQL Tutorial: Basic Practice
 -- Source: https://datalemur.com/sql-tutorial
--- Solutions are in tutorial order. Marked (verify) = written by me, not pasted by you.
+
 
 -- 01. SELECT: view all Azure products
 SELECT * FROM products;
